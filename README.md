@@ -1,4 +1,4 @@
-# PWL-Sistem-Informasi-Swalayan---CI-dan-Laravel
+# PWL-Sistem-Informasi-Swalayan-CI-dan-Laravel
 Source Code Sistem Informasi Swalayan
 - Jurusan   : Teknologi Informasi
 - Prodi     : DIV - Teknik Informatika
