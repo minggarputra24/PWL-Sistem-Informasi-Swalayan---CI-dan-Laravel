@@ -1,5 +1,5 @@
 # PWL-Sistem-Informasi-Swalayan---CI-dan-Laravel
-Sistem Informasi Swalayan
+Source Code Sistem Informasi Swalayan
 - Jurusan   : Teknologi Informasi
 - Prodi     : DIV - Teknik Informatika
 - Kelas     : TI - 2B 
